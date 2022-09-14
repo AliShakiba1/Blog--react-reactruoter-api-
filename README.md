@@ -1,3 +1,23 @@
+# Blog site
+
+## sampel Blog site with
+  React
+  JsonPlaceHolder
+  Axios
+  react-router-dom
+  FireBase
+  
+### you can creat new post and click eatch post on home to see this post on new page with (Full Post)
+  
+  
+i useing Vercel.app for this up 
+ [**Live Site**](https://blog-react-reactruoter-api.vercel.app/).
+
+ enjoy :))
+
+
+---------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
